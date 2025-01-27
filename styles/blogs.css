@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e9ecef;
+    color: #333;
+  }
+  
+  header {
+    text-align: center;
+    background-color: #673AB7;
+    color: white;
+    padding: 20px;
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  article {
+    background: white;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  article h2 {
+    margin: 0;
+    color: #673AB7;
+  }
+  
+  article p {
+    margin: 5px 0;
+  }
+  
