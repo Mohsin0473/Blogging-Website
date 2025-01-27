@@ -1,6 +1,11 @@
 {
     "rules":
     {
-        "selector-type-case": "lower"
+        "selector-type-case": "lower",
+        "declaration-block-no-duplicate-properties": true,
+        "no-duplicate-selectors": true,
+        "block-no-empty": true,
+        "property-case": "lower",
+        "value-keyword-case": "lower"
     }
 }
